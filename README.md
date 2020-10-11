@@ -1,1 +1,1 @@
-# due-thesis
+# thesis
