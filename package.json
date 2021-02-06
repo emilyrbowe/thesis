@@ -1,0 +1,29 @@
+{
+  "name": "thesis",
+  "version": "1.0.0",
+  "description": "Master's Thesis for the MS Design and Urban Ecologies Program",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/emilyrbowe/thesis.git"
+  },
+  "keywords": [
+    "thesis",
+    "open",
+    "data",
+    "community",
+    "data"
+  ],
+  "author": "Emily Bowe",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/emilyrbowe/thesis/issues"
+  },
+  "homepage": "https://github.com/emilyrbowe/thesis#readme",
+  "dependencies": {
+    "bindery": "^2.3.6"
+  }
+}
